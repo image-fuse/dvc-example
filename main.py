@@ -28,16 +28,17 @@ if __name__ == "__main__":
     warnings.filterwarnings("ignore")
     np.random.seed(40)
 
+    data = pd.read_csv("data/wine_data.csv")
     # Read the wine-quality csv file from the URL
-    csv_url = (
-        "http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv"
-    )
-    try:
-        data = pd.read_csv(csv_url, sep=";")
-    except Exception as e:
-        logger.exception(
-            "Unable to download training & test CSV, check your internet connection. Error: %s", e
-        )
+    # csv_url = (
+    #     "http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv"
+    # )
+    # try:
+    #     data = pd.read_csv("data/wine_data.csv", sep=";")
+    # except Exception as e:
+    #     logger.exception(
+    #         "Unable to download training & test CSV, check your internet connection. Error: %s", e
+    #     )
 
     train1_data = data[:1000]
     train2_data = data[500:1500]
