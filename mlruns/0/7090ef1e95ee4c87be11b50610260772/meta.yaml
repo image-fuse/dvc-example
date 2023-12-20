@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Image/Desktop/dvc-example/mlruns/0/7090ef1e95ee4c87be11b50610260772/artifacts
+end_time: 1703050623432
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7090ef1e95ee4c87be11b50610260772
+run_name: luxuriant-conch-492
+run_uuid: 7090ef1e95ee4c87be11b50610260772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703050614046
+status: 3
+tags: []
+user_id: Image

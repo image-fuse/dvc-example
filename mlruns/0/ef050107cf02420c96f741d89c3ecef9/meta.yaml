@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Image/Desktop/dvc-example/mlruns/0/ef050107cf02420c96f741d89c3ecef9/artifacts
+end_time: 1703054617792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef050107cf02420c96f741d89c3ecef9
+run_name: treasured-gnu-708
+run_uuid: ef050107cf02420c96f741d89c3ecef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703054609629
+status: 4
+tags: []
+user_id: Image

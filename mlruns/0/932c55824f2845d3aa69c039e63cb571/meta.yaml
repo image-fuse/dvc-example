@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Image/Desktop/dvc-example/mlruns/0/932c55824f2845d3aa69c039e63cb571/artifacts
+end_time: 1703054985531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 932c55824f2845d3aa69c039e63cb571
+run_name: caring-shark-573
+run_uuid: 932c55824f2845d3aa69c039e63cb571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703054969092
+status: 3
+tags: []
+user_id: Image
